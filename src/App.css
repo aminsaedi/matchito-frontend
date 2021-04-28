@@ -1,0 +1,7 @@
+/* Utilities */
+.hoverable {
+  transition: transform 0.3s ease-out;
+}
+.hoverable:hover {
+  transform: scale(1.1);
+}
